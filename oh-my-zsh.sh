@@ -11,7 +11,7 @@ fpath=($ZSH/functions $ZSH/completions $fpath)
 # Set ZSH_CUSTOM to the path where your custom config files
 # and plugins exists, or else we will use the default custom/
 if [[ -z "$ZSH_CUSTOM" ]]; then
-    ZSH_CUSTOM="$ZSH/custom"
+    ZSH_CUSTOM="$/Users/shilpagollapudi/.dotfiles/custom"
 fi
 
 # Set ZSH_CACHE_DIR to the path where cache files should be created
